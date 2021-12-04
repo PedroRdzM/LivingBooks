@@ -1,0 +1,2 @@
+2021-11-19T19:29:56+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 32768 bytes) en C:\xampp\htdocs\livingbooks\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WooSubscriptionsNotes.php en la línea 1
+
